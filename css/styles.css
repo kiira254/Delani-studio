@@ -7,9 +7,10 @@
     background-size: cover;
     font-size:50px;
     color: white;
+    padding-top: 100px;
 }
-img {
-    padding: 180px;
+.img {
+    padding: 250px;
 }
 .about{
     text-align: center;
@@ -21,4 +22,20 @@ img {
     color: white;
     background-image: url(https://delaniimaya.netlify.app/css/s_image.jpg);
     padding: 150px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wwd{
+    padding: 100px;   
+}
+.ip{
+    text-align: center;
+}
+.portfolio{
+    padding: 50px;
+}
+.contact{
+    background-image: url("https://delaniimaya.netlify.app/css/c_image.jpg");
+    
 }
