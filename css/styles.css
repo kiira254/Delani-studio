@@ -11,3 +11,14 @@
 img {
     padding: 180px;
 }
+.about{
+    text-align: center;
+    padding: 150px;
+}
+.services{
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    background-image: url(https://delaniimaya.netlify.app/css/s_image.jpg);
+    padding: 150px;
+}
