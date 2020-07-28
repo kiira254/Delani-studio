@@ -7,7 +7,6 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  font-size: 2vh;
   text-align: center;
 }
 #top {
@@ -25,8 +24,6 @@ body {
 .About {
   background-color: white;
   padding: 10px;
-  font-size: 2.5vh;
-  font-weight: bold;
 }
 .services {
   background-image: url("../Images/Backgrounds/s_image.jpg");
@@ -35,11 +32,7 @@ body {
   background-repeat: no-repeat;
   color: white;
   padding: 10px;
-  font-size: 2.5vh;
-  font-weight: bold;
-}
-.About, .services {
-  font-family: "Lora";
+
 }
 #Work {
   padding-top: 4%;
@@ -84,7 +77,6 @@ body {
   background-color: inherit;
   color: black;
   font-family: "Poppins";
-  font-weight: bold;
 }
 #portfolio {
   max-width: 80%;
@@ -100,9 +92,6 @@ body {
   color: white;
   height:100vh;
   padding-top: 3%;
-}
-.Contacts h1 {
-  font-weight: bold;
 }
 form {
   width:70%;
@@ -140,7 +129,6 @@ input:hover {
 }
 .social-media p {
   padding-top: 1%;
-  font-weight: bold;
 }
 .social-media img {
   border-radius: 50%;
