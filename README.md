@@ -33,7 +33,7 @@ The site uses mailchimp API to track the emails sent from the 'Contact us' secti
 There are no known bugs in the website so far. If you come across any, you are free to contact me via the contacts below.
 
 ## Contacts information
-To contact me for any contribution or support you can contact me through my gmail account at nkamotho57@gmail.com or call me at +254 722574451.
+To contact me for any contribution or support you can contact me through my gmail account at ngethenan768@gmail.com or call me at +254 722574451.
 
 ## License
 [MIT License](https://github.com/lendilai/Delani-studio/blob/master/LICENSE) [Nelly kamotho](https://github.com/kiira254).
